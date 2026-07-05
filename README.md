@@ -31,7 +31,7 @@
 
 | Tecnologias | Status | Link |
 |---|---|---|
-| HTML • CSS • JavaScript | Concluído | [Acessar](https://gatlyciopierre6-boop.github.io/calcflow/) |
+| HTML • CSS • JavaScript | Concluído | [Acessar](https://gatlyciopierre6-boop.github.io/projetos/CalcFlow) |
 
 </div>
 
